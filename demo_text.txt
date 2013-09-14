@@ -5,3 +5,6 @@ This is the second line from RStudio.
 This is the third line from RStudio.
 This is really getting old!
 
+This is the first line added on Github
+This is the second line added on Github.
+This is s'cool...
