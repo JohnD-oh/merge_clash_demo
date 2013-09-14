@@ -1,5 +1,6 @@
 This is a test file for illustrative purposes.
 
+<<<<<<< HEAD
 This is the first line from RStudio. Rstudio is cool.
 This is the second line from RStudio.
 This is the third line from RStudio.
